@@ -20,7 +20,7 @@
 
 <br>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=doraeyi&hide_border=true&bg_color=0a0a0a&color=fafafa&line=fafafa&point=fafafa&area=true&area_color=1c1c1f&hide_title=true" />
+<img width="98%" src="https://activity.doraeyi.com/graph?username=doraeyi&hide_border=true&bg_color=0a0a0a&color=fafafa&line=fafafa&point=fafafa&area=true&area_color=1c1c1f&hide_title=true" />
 
 <br><br>
 
