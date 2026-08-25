@@ -24,6 +24,7 @@
 
 <br><br>
 
+![wakatime](https://wakatime.doraeyi.com/api/badge?style=flat-square&label=wakatime&labelColor=0a0a0a&color=27272a)
 ![profile views](https://komarev.com/ghpvc/?username=doraeyi&style=flat-square&color=0a0a0a&label=profile%20views)
 
 </div>
