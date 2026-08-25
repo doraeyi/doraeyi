@@ -16,7 +16,7 @@
 <br>
 
 <img height="165" src="https://gitstats.doraeyi.com/api?username=doraeyi&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=fafafa&icon_color=fafafa&text_color=a1a1aa" />
-<img height="165" src="https://streak-stats.demolab.com/?user=doraeyi&hide_border=true&background=0a0a0a&stroke=27272a&ring=fafafa&fire=fafafa&currStreakLabel=fafafa&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa" />
+<img height="165" src="https://streak.doraeyi.com/?user=doraeyi&hide_border=true&background=0a0a0a&stroke=27272a&ring=fafafa&fire=fafafa&currStreakLabel=fafafa&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa" />
 
 <br>
 
